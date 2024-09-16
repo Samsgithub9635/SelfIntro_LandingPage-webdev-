@@ -33,6 +33,10 @@ nav a:hover{
     font-family:cursive;
     font-size: 25px;
 }
+nav img:hover{
+    width: 350px;
+    /* height: 50px; */
+}
 
 .text{
     max-width: 450px;
